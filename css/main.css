@@ -1,0 +1,15 @@
+.seccion{
+    text-align: center;
+}
+.seccion__titulo1{
+    color: slateblue;
+}
+
+.pie {
+    text-align: center;
+    margin-top: 20%;
+}
+
+.pie--derecho{
+    color: springgreen;
+}
