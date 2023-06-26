@@ -47,3 +47,7 @@
 .nav__item a::after {
     content: " | ";
 }
+
+img{
+    justify-content: center;
+}
